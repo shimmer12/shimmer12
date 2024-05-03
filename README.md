@@ -14,5 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I can make you laugh.
 -->
-![_e6aaedb6-0748-4f64-a416-51dbc1be2ef6](https://github.com/shimmer12/shimmer12/assets/92056170/01b7c8d0-d6ad-42a7-979c-ff1cd84258ab)
 
