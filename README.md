@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I can make you laugh.
 -->
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=orange)
+![](https://komarev.com/ghpvc/?username=shimmer12&color=orange)
 
