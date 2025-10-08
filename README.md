@@ -7,9 +7,10 @@
     <img alt="Srishti's banner" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   </picture>
 
-  <br/>
+  
 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="110" alt="waving robot"/>
+  <br/>
   <h1>Hi, I'm <b>Srishti Soni</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></h1>
 
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&duration=3500&pause=800&center=true&vCenter=true&width=700&lines=CS+undergrad+@+NIT+Raipur;Full-Stack+%7C+AI%2FML+Explorer;900%2B+DSA+problems+%E2%80%A2+LeetCode+1663+%E2%80%A2+540%2B+day+streak;Open+Source+Contributor+%E2%9C%A8" alt="typing intro"/>
