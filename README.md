@@ -76,11 +76,7 @@
 | **GeeksforGeeks** | Institute Rank **24 / 5600+** |
 | **Codeforces** | <a href="https://codeforces.com/profile/SHIMMER12">Profile</a> |
 
-<p>
-  <a href="https://github.com/shimmer12/leetcode-stats">
-    <img src="https://leetcode-stats-six.vercel.app/api?username=shimmer2002" alt="LeetCode Stats"/>
-  </a>
-</p>
+
 
 ---
 
