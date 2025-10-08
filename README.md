@@ -9,7 +9,7 @@
 
   
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3pnajd3MWcwdG4xdDB2NjRqcXE0MHY2MW83enhsYno2dTh4MmhqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="110" alt="waving robot"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3pnajd3MWcwdG4xdDB2NjRqcXE0MHY2MW83enhsYno2dTh4MmhqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="142" alt="waving "/>
   <br/>
   <h1>Hi, I'm <b>Srishti Soni</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></h1>
 
