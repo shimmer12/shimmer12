@@ -96,10 +96,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=shimmer12&show_icons=true&theme=dracula&rank_icon=github" height="165" alt="GitHub stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimmer12&layout=compact&theme=dracula" height="165" alt="Top languages"/>
   <br/>
-<img src="https://streak-stats.demolab.com?user=shimmer12&theme=dracula&cache_seconds=21600&v=3" alt="GitHub streak" />
-  <br/>
-<img src="https://raw.githubusercontent.com/shimmer12/shimmer12/master/github-metrics.svg" alt="Metrics" />
-</div>
+
 
 ---
 
@@ -109,6 +106,10 @@
 - 🤖 Exploring AI/ML (classifiers, RAG, tiny LLM apps)  
 - 🌱 Learning systems design & high-quality TS/JS patterns
 
+## Wishing for
+- HBS
+- Paris travel
+- World peace
 ---
 
 ## 📬 Reach Me
