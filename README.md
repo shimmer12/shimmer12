@@ -6,11 +6,13 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
     <img alt="Srishti's banner" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
   </picture>
-
+      
   
+   <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/f378b047-551e-45cd-86cf-741a485c8b7a" />
+    <img width="150" height="150" alt="image" src="https://github.com/user-attachments/assets/106aff62-dc7e-47b3-9626-1dc310c809fc" />
 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3pnajd3MWcwdG4xdDB2NjRqcXE0MHY2MW83enhsYno2dTh4MmhqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="120" alt="waving "/>
-  <br/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3pnajd3MWcwdG4xdDB2NjRqcXE0MHY2MW83enhsYno2dTh4MmhqNCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif" width="150" alt="waving "/>
+   <br/>
   <h1>Hi, I'm <b>Srishti Soni</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></h1>
 
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&duration=3500&pause=800&center=true&vCenter=true&width=700&lines=CS+undergrad+@+NIT+Raipur;Full-Stack+%7C+AI%2FML+Explorer;900%2B+DSA+problems+%E2%80%A2+LeetCode+1663+%E2%80%A2+540%2B+day+streak;Open+Source+Contributor+%E2%9C%A8" alt="typing intro"/>
