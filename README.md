@@ -15,7 +15,7 @@
    <br/>
   <h1>Hi, I'm <b>Srishti Soni</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"/></h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&duration=3500&pause=800&center=true&vCenter=true&width=700&lines=CS+undergrad+@+NIT+Raipur;Full-Stack+%7C+AI%2FML+Explorer;900%2B+DSA+problems+%E2%80%A2+LeetCode+1663+%E2%80%A2+540%2B+day+streak;Open+Source+Contributor+%E2%9C%A8" alt="typing intro"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&duration=3500&pause=800&center=true&vCenter=true&width=700&lines=CS+graduate+2025, +NIT+Raipur;Aspiring SWE+%7C+AI%2FML+Explorer;900%2B+DSA+problems+%E2%80%A2+LeetCode+1663+%E2%80%A2+540%2B+day+streak;Open+Source+Contributor+%E2%9C%A8" alt="typing intro"/>
 
   <p>
     I love building efficient systems, solving tricky problems, and shipping clean, readable code.
