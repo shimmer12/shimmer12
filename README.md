@@ -74,7 +74,7 @@
 
 | Platform | Highlights |
 |---|---|
-| **LeetCode** | Rating **1663** • **900+** problems • **540+** day streak |
+<!--| **LeetCode** | Rating **1663** • **900+** problems • **540+** day streak | --->
 | **CodeChef** | 3★ (**1622**) • Global Rank **52** in Starters 87 |
 | **GeeksforGeeks** | Institute Rank **24 / 5600+** |
 | **Codeforces** | <a href="https://codeforces.com/profile/SHIMMER12">Profile</a> |
